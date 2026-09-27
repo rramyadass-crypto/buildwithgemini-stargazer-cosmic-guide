@@ -1,0 +1,25 @@
+{
+  "eval_cases": [
+    {
+      "eval_case_id": "math_calculation",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "What is 45 * 128 + 350?"}]
+      }
+    },
+    {
+      "eval_case_id": "temp_conversion",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "Convert 100 Celsius to Fahrenheit."}]
+      }
+    },
+    {
+      "eval_case_id": "dist_conversion",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "Convert 50 kilometers to miles."}]
+      }
+    }
+  ]
+}
